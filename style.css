@@ -1,0 +1,183 @@
+/*.Column1{
+    width: 35%;
+    float: left;
+    height: 800px;
+    background-color:#075d8c;
+ 
+
+
+}
+.Profile_pic{
+  clear: left;
+border-radius: 50%;
+margin-left: 25%;
+margin-top: 5%;}
+
+
+
+
+
+
+p{
+width: 100%;
+text-align: center;
+font-size: 12px;
+}
+b{
+  text-align: center;
+}
+.box{
+
+  width: 100%;
+  height: 30px;
+  background-color:#034a72 ;
+  text-align: center;
+font-size: 10px;
+color:#dbe5eb;
+}
+
+
+
+
+
+
+ul{
+  margin-top: -15px;
+    
+}
+
+
+
+skills{
+  text-align: left;
+}
+
+.box1{
+  width: 100%;
+  height: 30px;
+font-size: 20px;
+  color: #034a72;}
+h1~p{
+  margin-top: -10px;
+  text-align: left;
+}
+li.skills{
+    
+    width: 100%;
+    display: block;
+    background-color: #fff;
+    color: #000;
+    font-size: 10px;
+    margin-left: -40px;
+    list-style-image: url("tick.png");
+   text-align: left;
+}
+
+	p.abc{
+
+  clear: both;
+  width: 100%;
+  background-color: #075d8c;
+
+}*/
+
+
+.Column1{
+    width: 40%;
+    float: left;
+    /*height: 800px;*/
+    background-color:#075d8c;
+ margin-right: 5%;
+
+
+}
+h1{
+   background-color: #dbe5eb;
+font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+  font-weight: bold;
+  color: #034a72 ;
+  font-size: 80%;
+}
+p{
+ text-align: center;
+font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
+}
+.Profile_pic{
+  /*clear: left;*/
+  /*margin:  auto;*/
+  width: 50%;
+
+  /*margin: 0 auto;*/
+/*border-radius: 50%;*/
+margin-left: 25%;
+margin-top: 5%;}
+
+
+.hobby{
+width: 10%;
+  display: inline;
+
+}
+
+span{
+  color:  #dbe5eb;
+width: 10px;
+}
+.box{
+
+  width: 100%;
+  font: 32px;
+
+  
+}
+.circle{
+    background-color: #dbe5eb;
+width: 10px;
+    display: inline-block;
+   margin: 3px;
+   color: #034a72;
+    border-radius: 50%;
+    font-size: 50%;
+    line-height: 10px;
+    text-align: center;
+    vertical-align: middle;
+    /*width: 80%;*/
+
+    
+}
+.uncolored_circle{
+  background-color: #659cba;
+  width: 10px;
+    display: inline-block;
+   margin: 3px;
+   color: #034a72;
+    border-radius: 50%;
+    font-size: 50%;
+    line-height: 10px;
+    text-align: center;
+    vertical-align: middle;
+    /*width: 80%;*/
+}
+ul{
+ margin-left: -10%;
+  /*background-color: red;*/
+}
+.skill{
+    /*list-style-image: url("tick.png");*/
+  text-align: left;
+  /*text-indent: 20%;*/
+  color: #659cba;
+  display: block;
+  /*margin-left: -30%;*/
+  /*font-size:1px; */
+
+}
+.Column2{
+ width: 50%;
+float: left;
+margin: 2%;
+  /*height: 750px;*/
+
+}
